@@ -4,3 +4,4 @@
 ## 해야할 일
 - git Commit하기
 - git Push하기
+- 아닝라니알
